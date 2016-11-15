@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SOM_Toolbar</string>
+    <string name="menu_adios">Adios</string>
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_fin" />
+    <string name="menu_hola">Hola</string>
+</resources>
